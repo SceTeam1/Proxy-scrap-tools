@@ -1,0 +1,6 @@
+requests
+aiohttp
+bs4
+fade
+alive-progress
+colorama
